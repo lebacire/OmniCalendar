@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371374410914",
+    "project_id": "omnicalendar-674eb",
+    "storage_bucket": "omnicalendar-674eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371374410914:android:bb1b1be7f0eee1ba1f9bfb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy_nsz-bvLYsoY_hREgYxKNxyXSxNuLXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
